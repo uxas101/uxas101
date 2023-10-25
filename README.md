@@ -1,4 +1,4 @@
-- 👋 Hi, Bne Yasin Baran
+- 👋 Hi, Ben Yasin Baran
 - 👀 I’m interested in Siber Güvenlik Ve Veri Bilimi ile İlgileniyorum
 - 🌱 I’m currently C++ Ve Python öğreniyorum learning 
 - 💞️ I’m looking to collaborate on ...
